@@ -1,0 +1,39 @@
+.sortable {
+    cursor: pointer;
+    color: #dd5;
+}
+
+.warning {
+    background-color: #e23030;
+}
+
+table {
+  color: rgb(92, 56, 78);
+  border-radius: 5px;
+  overflow: hidden;
+  margin: 12px 0;
+  min-width: 300px;
+  background: #dad8d8;
+}
+
+.header-row {
+    background: #d06d2f;
+    color: #fff
+}
+
+th {
+    text-align: center;
+    margin: 5px 10px;
+    padding: 6px;
+}
+
+td {
+    text-align: center;
+    margin: 5px 10px;
+    padding: 6px;
+}
+
+
+.reportHeader {
+    color:rgb(92, 56, 78);
+}
